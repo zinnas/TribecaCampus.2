@@ -1,0 +1,11 @@
+Expertise
+Math Education
+
+Degrees
+B.S. Duke University, Mathematics,1996
+M.S. SUNY-Stony Brook, Mathematics,2000
+Ph.D. Columbia University, Mathematics Education,2010
+Courses Taught
+Research and Projects
+“The Use of technology and visualization in calculus instruction”
+We investigate whether a different program of calculus instruction, reorganized to introduce the derivative using local linearity and to exploit the pedogogical advantages of both visualization and technology, results in learning outcomes which compare favorably with the typical outcomes recorded in previous research.
